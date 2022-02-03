@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AgH+QgtWyOa9dXfcyhohtwlrGZQqu9H0xLW7R3AnUf699TiBRwty9ejwA63mN2Ywj0+c4tOCh3uiPgtrN3AD8w==",
+  "success": true,
+  "projectFilePath": "E:\\Matheus\\EstudoOAB\\SistemaFinanceiro\\BackEnd\\src\\API\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Sales\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Matheus Sales\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Matheus Sales\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Matheus Sales\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Matheus Sales\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Matheus Sales\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
